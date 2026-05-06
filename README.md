@@ -3,6 +3,9 @@
 **Nome:** DARLISON DE SOUSA SANTOS PIRES  
 **Matrícula:** 2023037462
 
+**Nome:** CHRYSTOPHER GREGORY LUZ COSTA   
+**Matrícula:** 20250052871
+
 Este é um sistema simples desenvolvido em C para calcular o custo de estacionamento rotativo baseado em tipo de veículo e tempo de permanência.
 
 ## Descrição do Problema
